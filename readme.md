@@ -1,5 +1,1 @@
-Testando o git.
-
-Alterando o arquivo pra testar o git.
-
-alteracao feita no babydoge
+Home page feita  no curso da b7web, de forma responsiva, usando html5 e css3.
