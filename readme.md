@@ -1,1 +1,1 @@
-Home page feita  no curso da b7web, de forma responsiva, usando html5 e css3.
+Home page made in the course of b7web, in a responsive way, using html5 and css3.
